@@ -1,0 +1,13 @@
+{
+  "Locations": [
+    {
+      "X": 1931.2392578125,
+      "Y": 2607.0620117188,
+      "Z": 46.377307891846,
+      "W": 200,
+      "Note": "W = Callout's StartDistance"
+    }
+  ],
+  "MaxNumberOfSuspects": 18,
+  "MaxNumberOfGuards": 10
+}
