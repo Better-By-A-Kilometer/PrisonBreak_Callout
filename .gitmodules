@@ -1,0 +1,6 @@
+[submodule "Kilo.Commons.Config"]
+	path = Kilo.Commons.Config
+	url = https://github.com/DevKilo1/Kilo.Commons.Config.git
+[submodule "Kilo.Commons.Utils"]
+	path = Kilo.Commons.Utils
+	url = https://github.com/DevKilo1/Kilo.Commons.Utils.git
