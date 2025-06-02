@@ -9,7 +9,7 @@
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
         <RootNamespace>PrisonBreak.FivePD</RootNamespace>
-        <AssemblyName>PrisonBreak.FivePD</AssemblyName>
+        <AssemblyName>PrisonBreak.FivePD.net</AssemblyName>
         <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <LangVersion>latest</LangVersion>
